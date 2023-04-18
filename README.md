@@ -4,7 +4,7 @@
 - 💞️ I’m looking for full-time jobs and internships in web development. 
 - www.linkedin.com/in/joyce-k-wong
 - 📫 How to reach me: joycekwo12@gmail.com
-- Book Time with Me here: calendly.com/joyce_wong
+- Book Time with Me here: [calendly.com/joyce_wong](calendly.com/joyce_wong)
 - Portfolio: [justjoycewong.com](justjoycewong.com)
 
 <!---
