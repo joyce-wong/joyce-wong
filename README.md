@@ -5,7 +5,7 @@
 - www.linkedin.com/in/joyce-k-wong
 - 📫 How to reach me: joycekwo12@gmail.com
 - Book Time with Me here: calendly.com/joyce_wong
-- Portfolio: justjoycewong.com
+- Portfolio: (justjoycewong.com)[justjoycewong.com]
 
 <!---
 joyce-wong/joyce-wong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
